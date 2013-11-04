@@ -9,7 +9,7 @@ go-array is a library of like ruby's Array.
 ## Usage
 
 ```go
-imort (
+import (
     "github.com/ramtiga/go-array"
 )
 
