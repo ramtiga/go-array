@@ -1,4 +1,4 @@
-# Go Array Libray
+# Go Array Libray [![wercker status](https://app.wercker.com/status/f6f04a54980a278504a7b999ab24bdc4/s "wercker status")](https://app.wercker.com/project/bykey/f6f04a54980a278504a7b999ab24bdc4)
 
 go-array is a library of like ruby's Array.
 
